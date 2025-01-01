@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SpashScreenTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/orange</item>
+        <item name="postSplashScreenTheme">@style/Theme.FoodHub</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/animated_logo</item>
+    </style>
+    <style name="Theme.FoodHub" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

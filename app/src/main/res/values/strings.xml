@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FoodHub</string>
+    <string name="skip">Skip</string>
+    <string name="welcome">Welcome to</string>
+    <string name="app_description">Your favourite foods delivered fast at your door.</string>
+    <string name="already_have_an_account">Already have an account? Log in</string>
+    <string name="sign_with_email">Sign in with email</string>
+    <string name="sign_in_with">Sign in with</string>
+    <string name="sign_with_facebook">Facebook</string>
+    <string name="sign_with_google">Google</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account">Don\'t have an account? SignUp</string>
+    <string name="sign_in">Sign In</string>
+</resources>
